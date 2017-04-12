@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "es5",
+        "sourceMap": true
+    },
+    "include":[
+        "./app/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
